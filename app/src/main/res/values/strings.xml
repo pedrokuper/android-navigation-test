@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Servicios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Usuario logueado correctamente</string>
+</resources>
